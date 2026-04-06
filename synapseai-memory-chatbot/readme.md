@@ -114,7 +114,7 @@ curl -N -X POST http://localhost:8000/api/v1/chat \
   -d '{
     "user_id": "user_123",
     "thread_id": "thread_abc",
-    "message": "Hi, I am Al Amin. I live in Dhaka."
+    "message": "Hi, I am Arslan. I live in Dhaka."
   }'
 ```
 
