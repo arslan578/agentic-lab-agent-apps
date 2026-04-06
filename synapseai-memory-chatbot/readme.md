@@ -138,17 +138,3 @@ This ensures the bot feels "smart" even if the DB is milliseconds behind.
 *   **Read:** Try Redis -> Miss? -> Postgres -> Populate Redis.
 *   **Write:** Background Task -> Update Postgres -> Update Redis.
 This ensures 99% of chat requests hit the cache, bypassing the database entirely.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue or submit a PR for improvements.
-
-## 📄 License
-
-MIT License. See `LICENSE` for details.
-
----
-
-**Built with ❤️ by Md Al Amin**
