@@ -82,8 +82,8 @@ chatbot_backend/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/synapse-ai.git
-cd synapse-ai
+git clone https://github.com/arslan578/agentic-lab-agent-apps.git
+cd agentic-lab-agent-apps/synapseai-memory-chatbot
 ```
 
 ### 2. Configure Environment
